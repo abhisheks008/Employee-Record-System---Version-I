@@ -1,4 +1,4 @@
-# Employee-Record-System using JAVA
+# Employee Record System using JAVA
 ### An Object Oriented Programming Project
 Code contributed by, Abhishek Sharma, 2021 @abhisheks008
 *****************************************************************
